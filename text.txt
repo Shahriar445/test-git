@@ -1,2 +1,8 @@
 working directory -> stagging area -> local repositiory -> remote repositiory
 git-test           -> git add       -> git commit        -> git push 
+
+
+
+make change -> git add -> git commit -> git push 
+
+git pull
